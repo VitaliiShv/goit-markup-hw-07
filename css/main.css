@@ -439,13 +439,13 @@ ul {
   background-color: #f5f4fa;
 }
 
-.benefit-set {
+.benefit {
   display: -webkit-inline-box;
   display: -ms-inline-flexbox;
   display: inline-flex;
 }
 
-.benefit:not(:last-child) {
+.benefit__item:not(:last-child) {
   margin-right: 30px;
 }
 
